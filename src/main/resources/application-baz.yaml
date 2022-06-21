@@ -1,0 +1,5 @@
+quarkus:
+  config:
+    profile:
+      parent: prod
+something-value: "baz"
